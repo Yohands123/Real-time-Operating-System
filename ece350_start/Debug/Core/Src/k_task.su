@@ -1,0 +1,16 @@
+../Core/Src/k_task.c:20:13:null_task	16	static
+../Core/Src/k_task.c:28:13:init_task_stack	24	static
+../Core/Src/k_task.c:41:10:allocate_stack	16	static
+../Core/Src/k_task.c:50:6:osKernelInit	16	static
+../Core/Src/k_task.c:76:6:k_scheduler	16	static
+../Core/Src/k_task.c:98:5:k_create_task	32	static
+../Core/Src/k_task.c:132:5:k_task_info	24	static
+../Core/Src/k_task.c:140:5:k_task_exit	4	static
+../Core/Src/k_task.c:151:8:k_get_tid	4	static
+../Core/Src/k_task.c:160:5:osKernelStart	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:166:6:osYield	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:170:5:osCreateTask	16	static,ignoring_inline_asm
+../Core/Src/k_task.c:176:5:osTaskInfo	16	static,ignoring_inline_asm
+../Core/Src/k_task.c:183:5:osTaskExit	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:189:8:osGetTID	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:199:6:SVC_Handler_Main	24	static

@@ -1,0 +1,8 @@
+../Core/Src/main.c:20:13:local_pass	1
+../Core/Src/main.c:29:13:local_fail	1
+../Core/Src/main.c:38:13:local_assert	2
+../Core/Src/main.c:46:13:local_assert_eq_u32	2
+../Core/Src/main.c:61:6:task1_main	2
+../Core/Src/main.c:86:6:task2_main	2
+../Core/Src/main.c:112:6:test_main	5
+../Core/Src/main.c:175:5:main	1

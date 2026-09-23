@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+../Core/Src/k_mem.c:30:6:k_osKernelInit	2
+../Core/Src/k_mem.c:92:6:osKernelInit	1
+../Core/Src/k_mem.c:102:5:k_osKernelStart	6
+../Core/Src/k_mem.c:147:5:osKernelStart	1
+../Core/Src/k_mem.c:161:5:k_osYield	2
+../Core/Src/k_mem.c:179:5:osYield	1
